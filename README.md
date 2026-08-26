@@ -78,6 +78,8 @@ Foram desenvolvidas medidas para cálculo de:
 - Taxa de Inadimplência
 - Crescimento Mensal
 
+## 📊 Principais KPIs
+
 - | Indicador | Descrição |
 |---|---|
 | Receita Total | Valor total das operações |
