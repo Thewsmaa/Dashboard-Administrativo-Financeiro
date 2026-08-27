@@ -173,9 +173,7 @@ Entre os principais indicadores estão:
 - Receita do Mês Anterior
 - Crescimento Mensal
 
-As medidas DAX utilizadas no projeto estão documentadas separadamente:
-
-👉 **[Ver documentação das medidas DAX](Medidas_DAX.md)**
+As medidas DAX utilizadas no projeto estão documentadas separadamente
 
 ---
 
