@@ -252,26 +252,6 @@ Essa análise pode auxiliar na identificação de clientes estratégicos e poss�
 
 ---
 
-# 📸 Visualizações
-
-## Dashboard Executivo
-
-![Dashboard Executivo]([Imagens/dashboard-executivo.png](https://github.com/Thewsmaa/Dashboard-Administrativo-Financeiro/blob/main/Imagens/An%C3%A1lise%20de%20Clientes.png))
-
----
-
-## Análise Financeira
-
-![Análise Financeira](Imagens/analise-financeira.png)
-
----
-
-## Análise de Clientes
-
-![Análise de Clientes](Imagens/analise-clientes.png)
-
----
-
 # 💡 Insights
 
 A análise permite identificar diferentes aspectos relevantes da operação, como:
