@@ -1,0 +1,13 @@
+
+Campo	            Descrição	                            Tipo
+
+Nota_Fiscal	    Identificador da operação	            Texto
+Data	            Data da operação	                    Data
+Cliente	            Cliente da operação	                    Texto
+Departamento	    Departamento responsável	            Texto
+Categoria	    Categoria da operação	            Texto
+Valor_Operacao	    Valor total	                            Decimal
+Status	            Situação do pagamento	            Texto
+Valor_Pago	    Valor já pago	                    Decimal
+Valor_Em_Aberto	    Valor pendente	                    Decimal
+Dias_Atraso	    Dias de atraso	                    Inteiro
