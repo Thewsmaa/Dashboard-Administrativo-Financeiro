@@ -256,7 +256,7 @@ Essa análise pode auxiliar na identificação de clientes estratégicos e poss�
 
 ## Dashboard Executivo
 
-![Dashboard Executivo](Imagens/dashboard-executivo.png)
+![Dashboard Executivo]([Imagens/dashboard-executivo.png](https://github.com/Thewsmaa/Dashboard-Administrativo-Financeiro/blob/main/Imagens/An%C3%A1lise%20de%20Clientes.png))
 
 ---
 
